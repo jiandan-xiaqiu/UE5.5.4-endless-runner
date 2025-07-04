@@ -47,11 +47,7 @@
 
 # 内容缓存
 /Content/DerivedData/
-*.umap
-*.uasset
-*.uexp
-*.ubulk
-*.uptnl
+
 
 # 日志和报告
 *.log
